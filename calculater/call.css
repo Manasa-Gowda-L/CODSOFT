@@ -1,0 +1,25 @@
+.text{
+  text-align: center;
+  font-family: 'bold';
+  font-size:40px;
+  backgroud:red;
+}
+
+.bg-red{
+  background: pink;
+}
+
+.mx-auto{
+  margin: auto;
+}
+
+.flex{
+  display:flex;
+} 
+.flex-col{
+  flex-direction: column;
+}
+
+.items-center{
+  align-items: center;
+}
